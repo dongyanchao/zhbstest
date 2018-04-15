@@ -1,0 +1,6 @@
+基本上本工程是一些练习作品。
+首先先把ArrayList LinkedList HashMap实现一下
+然后实现spring ioc和aop
+再就是spring mvc
+多线程部分在spring部分应该会有所涉及
+再有需要练习的可能就是一些常考的算法
